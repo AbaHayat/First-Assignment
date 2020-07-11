@@ -63,10 +63,31 @@ img{
 .latest-work-area{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
-    background-size: 120%;
-    margin-left: 5%;
+    background-size: 80%;
+    background-position: right center;
+    
     height: 500px;
 }
-#align{
+.align{
+    text-align: center;
+    font-size: 30px;
+}
+.single-area{
+    text-align: center;
+    margin: 10% 25%;
+}
+h4{
+    color: darkgray;
+}
+#email-bold{
+    font-size: 40px;
+}
+.footer-area{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 100%;
+}
+footer p{
     text-align: center;
 }
