@@ -1,0 +1,53 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0px;
+}
+section{
+    height: 650px;
+    margin-bottom: 5px;
+}
+p{
+    text-align: justify;
+}
+#aba-area{
+    padding-top: 15%;
+    margin-left: 10%;
+}
+.half-width{
+    width: 35%;
+    float: left; 
+    margin-left: 5%;
+}
+#name-color{
+    font-weight: 900;
+    font-family: 'Poppins', sans-serif;
+    color: crimson;
+}
+.click-me-button{
+    background-color: crimson;
+    text-decoration: none;
+    color: white;
+    padding: 7px;
+    font-weight: 900;
+    border-radius: 5px;
+}
+img{
+    width: 120%;
+}
+.header-area{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+#biography{
+    padding-top: 15%;
+}
+.single-bio-area{
+    padding-left: 45px;
+}
+.biography-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
